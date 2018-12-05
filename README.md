@@ -1,1 +1,1 @@
-This is info file
+This is info file for testing repo
