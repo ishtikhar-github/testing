@@ -6,3 +6,5 @@ if testing=='yes'
    print(" fries ")
 else
   print(" no i am not testing git") 
+  print(" no i am also testing github") 
+  print(" no i am also testing github.com") 
