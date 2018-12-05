@@ -1,5 +1,5 @@
 example=input("are you testing git")
-if testing=='yes'
+if testing=='yes' and checking=='yo'
    print(" yes i am testing git ")
    print(" pizza ")
    print(" burger ")
